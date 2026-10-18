@@ -43,7 +43,7 @@ Speichere den Key in Google Colab unter den "Secrets" (Schlüssel-Icon links) al
 
 In der ersten Zelle eures Colab-Notebooks müsst ihr die Bibliothek installieren:
 
-!pip install -q -U google-generativeai
+!pip install -q -U google-genai
 
 
 💻 Anatomie der Lösung

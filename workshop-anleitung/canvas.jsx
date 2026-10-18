@@ -142,7 +142,7 @@ const slides = [
     title: 'Ressourcen & Downloads',
     icon: <Github className="w-8 h-8 text-white" />,
     items: [
-      { label: 'GitHub Repository', text: 'https://github.com/Escrimark/KI-Team-Challenge/' },
+      { label: 'GitHub Repository', text: 'https://github.com/MSchenkl/KI-Team-Challenge/' },
       { label: 'Musterlösung', text: 'Namen raten.ipynb – Die Referenz-Implementierung als Jupyter Notebook.' },
       { label: 'Evaluation Tool', text: 'Vibe Coding Challenge Evaluation.xlsx – Zur Auswertung der Challenge.' }
     ]
