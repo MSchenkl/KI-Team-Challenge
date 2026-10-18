@@ -2,7 +2,8 @@
 🚗 Wer ist es? – Die KI-Team-Challenge
 
 Workshop Material für Teambuilding Workshops
-Präsentationstemplate: https://gemini.google.com/share/c4845b7379a6
+
+Präsentationstemplate: [https://gemini.google.com/share/c4845b7379a6](https://gemini.google.com/share/c4845b7379a6)
 
 Willkommen im Repository zum Workshop "Vibecoding & Personality Matching". In diesem Workshop nutzen wir Generative AI, um eine Anwendung zu bauen, die unsere Teammitglieder anhand anonymer Beschreibungen erkennt.
 
